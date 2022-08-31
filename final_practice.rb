@@ -55,7 +55,7 @@ p square(12)
 def greet_person(first, middle, last)
   return "Hi, #{first} #{middle} #{last}"
 end
-p greet_person("Kaylah", 'Rose', 'Mitchell')
+p greet_person("Kaylah", "Rose", 'Mitchell')
 
 # What is the return value of your method?
 # 'Hi, Kaylah Rose Mitchell'
